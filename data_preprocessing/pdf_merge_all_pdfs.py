@@ -1,6 +1,6 @@
 import os
 import base64
-from pypdf import PdfReader, PdfWriter
+# from pypdf import PdfReader, PdfWriter
 import json
 import sys
 import fitz
