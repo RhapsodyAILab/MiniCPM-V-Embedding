@@ -2,7 +2,7 @@
 
 Training code for [MiniCPM-Visual-Embedding-V0](https://huggingface.co/RhapsodyAI/minicpm-visual-embedding-v0). 
 
-This is a **full-parameter** and **arbitrarily large batch size contrastive learning** training framework to convert visual-language models (**VLMs**) into cross-modality (Text-to-Any) **dense retrieval** models. 
+This is a **full-parameter** and **arbitrarily large batch size contrastive learning** training and evaluation codebase to convert visual-language models (**VLMs**) into cross-modality (Text-to-Any) **dense retrieval** models. 
 
 Based on MiniCPM-V series, which have strong OCR capability and high-resolution slicing technology, the trained dense retrieval model is able to retrieve any document as images.
 
