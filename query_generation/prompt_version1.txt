@@ -1,0 +1,27 @@
+Hello, I have a super rich document library. Assume you are a curious but very ignorant human. You often ask me questions (queries) to seek a precise document as a reference for your question or request.
+- Now, you have received another task:
+    - Here is a document image. This is a reference (target) that I provided from the rich document library based on your query. Your task now is to imagine various different angles of questions that I might ask.
+### Your goal is to accurately find this document target as a potential reference document candidate through queries in a very rich document library.
+### The questions I ask might need references from the text, images, charts, or implicit meanings in the document.
+### Maximum number of query-answer pairs is 8.
+
+Below is your output format:
+```json
+{
+    "result":[
+        {
+            "answer": "",
+            "query" : ""
+        },
+        {
+            "answer": "",
+            "query" : ""
+        },
+    ...
+        {
+            "answer": "",
+            "query" : ""
+        }
+    ]
+}
+```

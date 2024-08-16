@@ -1,0 +1,21 @@
+The image is a page from a book. Your task is to come up with two 'guiding questions' that can guide a person to naturally recall this page when she/he sees your question. 
+
+1. Briefly discuss the content in this page, think of its meaning, main idea, and thoughts to convey etc. of this page to ensure that you truly understand it. 
+2. Come up with a 'guiding question' for this page, please make sure it is specific.
+3. Come up with another 'guiding question' for this page, but this time, make sure it is harder, it should require higher level of association.
+4. Come up with another 'guiding question' for this page, but this time, make sure it is much harder, it should require highest level of association. That is, it is hard to recall this page when people see this question, but this page really helps to solve the question.
+
+Hint:
+1. The question you come up with should be presented with non-ambiguity: this description method avoids pronouns, use specific nouns or clear descriptions. You need to allow question recipients to understand the question without needing to backtrack through the page. 
+2. If the page contains images, diagrams and tables, do make good use of them by describing the diagrams or includes the details about the graph in your guiding questions.
+3. Please output your response in this format:
+```json
+{{
+    "discussion": "xxx",
+    "easy_query": "xxx",
+    "harder_query": "xxx",
+    "hardest_query": "xxx",
+}}
+```
+
+Now give your response for this page.
