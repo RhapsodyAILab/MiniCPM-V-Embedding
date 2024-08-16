@@ -16,6 +16,8 @@ Preprare MiniCPM-V-2.0 model checkpoint from huggingface.
 
 ### Data Conversion and Generation
 
+> If you would like to acquire the training pairs directly, please open an issue with your email address. We will respond with data link soon.
+
 Our training data is in the form of text query -> document image pairs. Our training data comes from two main sources: academic VQA datasets and model generated queries. 
 
 > We use `hdf5` format to store image documents, because image documents are so large, which makes jsonl not suitable to use when we prepare trainign data. `hdf5` format enables a process to fastly and randomly read a document provided its identity, a `str`.
@@ -81,7 +83,27 @@ bash eval_mm_dev.sh
 ```
 
 
+### Issues
+
+The codebase is a cleaned version, and some components may be missing, if so, please feel free to open an issue in this repo. 
+
+
 ### Acknowledgement
 
 We are a part of [OpenBMB](https://github.com/OpenBMB). The developers of this project have also participated in the development of [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) series.
+
+
+### Citation
+
+If you find our work useful, please consider cite us:
+
+```bibtex
+@misc{RhapsodyEmbedding2024,
+  author = {Rhapsody Group},
+  title = {Memex: OCR-free Visual Document Embedding Model as Your Personal Librarian},
+  year = {2024},
+  howpublished = {\url{https://huggingface.co/RhapsodyAI/minicpm-visual-embedding-v0}},
+  note = {Accessed: 2024-06-28}
+}
+```
 
