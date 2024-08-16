@@ -4,6 +4,20 @@
 
 2. Prepare query -> image document dataset.
 
+3. Configure environment.
+
+```
+bash configure_environment.sh
+```
+
 3. Train.
 
+```
+bash train_mm_dev.sh
+```
+
 4. Eval.
+
+```
+bash eval_mm_dev.sh
+```
