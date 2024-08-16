@@ -102,7 +102,7 @@ If you find our work useful, please consider cite us:
   author = {Rhapsody Group},
   title = {Memex: OCR-free Visual Document Embedding Model as Your Personal Librarian},
   year = {2024},
-  howpublished = {\url{https://huggingface.co/RhapsodyAI/minicpm-visual-embedding-v0}},
+  howpublished = {\url{https://github.com/RhapsodyAILab/MiniCPM-V-Embedding-v0-Train}},
   note = {Accessed: 2024-06-28}
 }
 ```
