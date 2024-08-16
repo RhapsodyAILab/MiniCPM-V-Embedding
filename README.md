@@ -10,13 +10,13 @@
 bash configure_environment.sh
 ```
 
-3. Train.
+4. Train.
 
 ```
 bash train_mm_dev.sh
 ```
 
-4. Eval.
+5. Eval.
 
 ```
 bash eval_mm_dev.sh
