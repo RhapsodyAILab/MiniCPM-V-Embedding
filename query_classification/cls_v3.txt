@@ -1,0 +1,61 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+
+I have some QA data here, and you can observe that the questions can be divided into two categories:
+
+The category #A: When you see this question alone without a given document, you are sure to find a unique document in a corpus to provide a unique answer.
+
+The category #B: When you see this question alone without a given document, you will find hard to locate a document to give a deterministic answer for this question, because you will find multiple candidate documents in a corpus, which may lead to different answers for this question. 
+
+The number mentioned on the right of the leftside margin? #B
+What is the date mentioned in the second table? #B
+What is the full form of PUF? #A
+What is the number at the bottom of the page, in bold? #B
+Who presented the results on cabin air quality study in commercial aircraft? #A
+What is the name of the corporation? #B
+To whom this is addressed? #B
+How many one-on-one interviews were completed during April 10th through the April 12th? #A
+What is the subject of the document/letter? #B
+Who sent the letter? #B
+Heading of the document? #B
+What is the slope mentioned in the first table? #B
+Where were the two magnesium containing papers made at? #A
+what is the date in the letter? #B
+What is the date mentioned in the letter? #B
+Which part of Virginia is this letter sent from? #B
+who were bothered by cigarette odors? #A
+which cigarette would be better if offered on a thicker cigarette? #A
+Cigarettes will be produced and submitted to O/C Panel for what purpose? #A
+What is the heading of first table? #B
+What is RIP-6 value for KOOL KS? #A
+Which hetero-atoms does polar compounds contain? #A
+One variable that has implicitly not been controlled? #B
+Which corporation's letterhead is this? #B
+what is the contact person name mentioned in letter? #B
+what is the date mentioned in this letter? #B
+Another model of the 83mm with zero ventilation will be made at Semiworks within how many weeks? #A
+Hand sheets were made utilizing a 30% level of which component? #A
+What is the source? #B
+What is the heading of the document? #B
+What is the subject? #B
+What is the S.D. mentioned in the DOSE-ug 0.0000 in the third table?
+Which base paper will be coated in-house with various levels of mono potassium phosphate and malonic acid in order to optimize the system?
+Which test is used to evaluate ART menthol levels that has been shipped? #A
+How much percent had not noticed any difference in the odor of VSSS? #A
+What is the cigarette code of RIP-6(W/O Filter) 21/4SE? #A
+What is the meeting date? #B
+How many points are there in modifications to readout instrumentation?
+what is the subject of this letter? #B
+what is the index for Retention of Franchise? #B
+What is the heading of second table? #B
+What is the full form of POVC? #A
+what mm Marlboro Menthol were subjectively smoked by the Richmond Panel? #A
+What sort of communication/letter is this? #B
+According to the listed requirements, what must be the age group of female smokers? #A
+How many one-on-one interviews were completed during April 10th through the April 12th? #A
+During the process of prototype production and ringtipping, some cigarettes were observed to have burn holed in which paper? #A
+How many distinct mechanisms appear to play a role in the breakup of a smoke column into a multi-dimensional flowfield? #A
+Where was the conference held? #B
+Who is in cc in this letter? #B
+Under BOLD, primary production of Blend #24- will be completed by which date? #A
+{passage} #

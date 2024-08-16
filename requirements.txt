@@ -1,0 +1,7 @@
+transformers==4.40.2
+deepspeed==0.13.2
+accelerate
+datasets
+Pillow
+torch
+torchvision
